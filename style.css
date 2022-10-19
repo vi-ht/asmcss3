@@ -1,0 +1,47 @@
+*{
+    font-family: "Monaco",  monospace;
+}
+#Chicken,
+#Beef,
+#Sushi {
+    background-color: lightgray;
+    border: 3px solid black;
+    border-radius: 3px;
+}
+
+#chicLink {
+    color: pink;
+}
+
+#beLink {
+    color: red;
+}
+
+#suLink {
+    color: yellow;
+}
+
+li a {
+    font-weight: bold;
+}
+
+#chicTag {
+    background-color: pink;
+}
+
+#beTag {
+    background-color: red;
+}
+
+#suTag {
+    background-color: yellow;
+}
+.tagName {
+    width: 120px;
+    height: 35px;
+    line-height: 32px;
+    border-bottom: 3px solid black;
+    border-right: 3px solid black;
+    font-weight: bold;
+    font-size: 18px;
+}
